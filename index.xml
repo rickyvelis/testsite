@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goteflower</title>
-    <link>https://goteflower.com/</link>
+    <link>https://goteflower.com/testsite/</link>
     <description>Recent content on Goteflower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 12:54:19 +0200</lastBuildDate><atom:link href="https://goteflower.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 12:54:19 +0200</lastBuildDate><atom:link href="https://goteflower.com/testsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://goteflower.com/posts/my-first-post/</link>
+      <link>https://goteflower.com/testsite/posts/my-first-post/</link>
       <pubDate>Thu, 30 Sep 2021 12:54:19 +0200</pubDate>
       
-      <guid>https://goteflower.com/posts/my-first-post/</guid>
+      <guid>https://goteflower.com/testsite/posts/my-first-post/</guid>
       <description></description>
     </item>
     

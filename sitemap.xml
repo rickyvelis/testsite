@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://goteflower.com/</loc>
+    <loc>https://goteflower.com/testsite/</loc>
     <lastmod>2021-09-30T12:54:19+02:00</lastmod>
   </url><url>
-    <loc>https://goteflower.com/posts/my-first-post/</loc>
+    <loc>https://goteflower.com/testsite/posts/my-first-post/</loc>
     <lastmod>2021-09-30T12:54:19+02:00</lastmod>
   </url><url>
-    <loc>https://goteflower.com/posts/</loc>
+    <loc>https://goteflower.com/testsite/posts/</loc>
     <lastmod>2021-09-30T12:54:19+02:00</lastmod>
   </url><url>
-    <loc>https://goteflower.com/categories/</loc>
+    <loc>https://goteflower.com/testsite/categories/</loc>
   </url><url>
-    <loc>https://goteflower.com/tags/</loc>
+    <loc>https://goteflower.com/testsite/tags/</loc>
   </url>
 </urlset>
