@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Ricky&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://goteflower.com/testsite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://goteflower.com/testsite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>privacy</title>
+      <link>https://goteflower.com/testsite/tags/privacy/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://goteflower.com/testsite/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://goteflower.com/testsite/tags/shortcodes/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://goteflower.com/testsite/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>css</title>
       <link>https://goteflower.com/testsite/tags/css/</link>
@@ -40,24 +58,6 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://goteflower.com/testsite/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://goteflower.com/testsite/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://goteflower.com/testsite/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://goteflower.com/testsite/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://goteflower.com/testsite/tags/shortcodes/</guid>
       <description></description>
     </item>
     
